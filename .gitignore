@@ -1,0 +1,7 @@
+.cache
+.project
+.classpath
+/.settings/
+/bin/
+/journal/
+/snapshots/
