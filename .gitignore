@@ -1,7 +1,10 @@
 .cache
 .project
 .classpath
+.idea/
 /.settings/
 /bin/
 /journal/
 /snapshots/
+/project/
+/target/
